@@ -1,6 +1,9 @@
 <!--------------------------------------- My Universe ------------------------------->
 <!--background-->
-![Background Image](./Background.png)
+
+<picture>
+  <img align="left" alt="GIF description" width="1280" height="550" src="./INTRO_BENADDI_IYAD.gif">
+</picture>
 
 <!--------------------------------------- My Universe ------------------------------->
 
