@@ -2,7 +2,7 @@
 <!--background-->
 
 <picture>
-  <img align="center" alt="GIF description" width="1280" height="720" src="./INTRO_BENADDI_IYAD.gif">
+  <img align="center" alt="GIF description" width="1280" height="650" src="./INTRO_BENADDI_IYAD.gif">
 </picture>
 
 <!--------------------------------------- My Universe ------------------------------->
